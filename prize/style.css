@@ -1,0 +1,22 @@
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    text-align: left;
+  }
+  
+  th, td {
+    border: 1px solid #dddddd;
+    padding: 8px;
+  }
+  
+  th {
+    background-color: #dddddd;
+    font-weight: bold;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
